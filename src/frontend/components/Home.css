@@ -1,0 +1,38 @@
+#sider {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 10px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 11px;
+    border: 1px;
+    border-radius: 50px;
+}
+
+#sider > input {
+    overflow: visible;
+    font-size: 18pt;
+    background-image: url('https://res.cloudinary.com/silenceiv/image/upload/v1616775441/search-icon_i5dy7o.png');
+    background-repeat: no-repeat;
+    height: 55px;
+    width: 700px;
+    padding-left: 68px;
+    background-position: left;
+    background-size: 31px;
+    background-position-x: 17px;
+}
+
+#dropdown-sort {
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+#dropdown-sort button {
+    border: 1px solid gray;
+    width: 310px;
+}
+
+#dropdown-sort button svg {
+    font-size: 14pt;
+}
